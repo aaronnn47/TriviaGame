@@ -1,0 +1,20 @@
+header {
+    font-size: 70px;
+    color: white;
+}
+
+body {
+    background-image: radial-gradient(rgba(77, 62, 14, 0.637), rgb(51, 168, 110));
+    font-family: 'Shadows Into Light', cursive;;
+}
+
+#buttons {
+    font-size: 75px;  
+}
+
+#display {
+    font-size: 90px;
+    color: white;
+
+}
+
