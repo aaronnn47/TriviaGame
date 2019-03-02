@@ -54,7 +54,9 @@ $(document).ready(function() {
             correct++;
         }
 
-        document.getElementById("number_correct").innerHTML = "You got" + correct + "correct!";
+        $("#quiz2").hide();
+
+        document.getElementById("number_correct").innerHTML = "You got" + correct + "/4" + "correct!";
 
 
     }
