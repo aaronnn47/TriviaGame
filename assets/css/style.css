@@ -4,17 +4,25 @@ header {
 }
 
 body {
-    background-image: radial-gradient(rgba(77, 62, 14, 0.637), rgb(51, 168, 110));
+    background-image: radial-gradient(#4d3e0ea2, rgb(51, 168, 110));
     font-family: 'Shadows Into Light', cursive;;
 }
 
-#buttons {
-    font-size: 75px;  
-}
 
-#display {
-    font-size: 90px;
+#quiz {
     color: white;
+    font-size: 20px;
 
 }
+
+.start {
+    font-size: 20px;
+}
+
+#questions {
+    color: white;
+    font-size: 20px;
+}
+
+
 
